@@ -1,4 +1,4 @@
-# Game-Strikes-and-Spells (Example for my resume)
+# Console_casual_game_Strikes_and_Spells (Example for my resume)
 # The course of learning the basics C#
 
 # The basics
