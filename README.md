@@ -1,4 +1,4 @@
-# Console casual game Strikes and Spells (Example from course of study)
+# Console casual game Strikes and Spells
 # The course of learning the basics C#
 
 # The basics
