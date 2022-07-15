@@ -1,2 +1,2 @@
-# Console casual game Strikes and Spells  
+Strikes and Spells  
 Простая консолька с вводом параметров, которые выполняют определенные действия
